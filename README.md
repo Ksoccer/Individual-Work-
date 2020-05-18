@@ -3,40 +3,7 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c43215ea540c406eb56d38a6ff702d7d)](https://www.codacy.com/manual/Ksoccer/Team-3-Work?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ksoccer/Team-3-Work&amp;utm_campaign=Badge_Grade)
 
-Repo for Team 3 L&amp;T
-
-
-Fault Detection Code
-
-
-Main - trip a Bool value for the fault
-
-
-Header - Faults.h
-
-
-Robert Furlong - over voltage
+Individual work for Team and Singular Activity 3. Code I did not write has been commented out 
 
 
 
-Tae Kim - under current
-
-
-
-
-Kyle Jernigan - over current 
-
-
-
-
-Subhakanta Swain - under voltage
-
-
-
-
-Sambasivarao G - over freq.
-
-
-
-
-NithinKumar Kottila Veettil - Main 
