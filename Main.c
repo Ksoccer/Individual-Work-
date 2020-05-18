@@ -34,11 +34,11 @@ int main()
 	  OverFrequencyFault = 0;
 	  UnderFrequencyFault = 0;
   }
-  UnderVoltageFault = UnderVoltage(Voltage,time);
-  UnderFrequencyFault = UnderFrequency(Frequency,time);
+ // UnderVoltageFault = UnderVoltage(Voltage,time);
+ // UnderFrequencyFault = UnderFrequency(Frequency,time);
  // OverFrequencyFault = OverFrequency(Frequency,time);
   //UnderCurrentFault = UnderCurrent(Current,time);
-  /*OverCurrentFault = Over_Current(Current, time);*/
+  OverCurrentFault = Over_Current(Current, time);
   //OverVoltageFault = OverVoltage(voltage, time);
 	 
   if(OverCurrentFault)
